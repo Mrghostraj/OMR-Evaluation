@@ -3,5 +3,5 @@ numpy
 pandas
 matplotlib
 scikit-learn
-OpenCV-python
+opencv-python
 gradio
